@@ -2,6 +2,8 @@
 
 Common Lisp web application using [Tailwind CSS](https://tailwindcss.com) for styles bootstraped with [Caveman](https://github.com/fukamachi/caveman)
 
+## Pre-requisites
+You need [Node.js](https://nodejs.org) installed in your machine, since the build scripts for Tailwind CSS require the `npx` program.
 
 ## Usage
 ```lisp
